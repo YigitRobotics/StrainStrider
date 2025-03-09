@@ -14,6 +14,8 @@ def platform_belirle():
         os.system("clear")
     elif sistem == "Windows":
         os.system("cls")
+    else:
+        os.system("clear")
 
 def soket_kur(ip, port):
     try:
