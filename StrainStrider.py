@@ -58,7 +58,7 @@ def banner_ve_logo():
 
                   
           """, colorama.Fore.WHITE + """
-          tarafından oluşturuldu: @oxcanga
+          tarafından oluşturuldu: @YigitRobotics
           -------------------------------
           HTTP atağı için (1)
           HTTP isteği için (2)
